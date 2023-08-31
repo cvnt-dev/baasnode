@@ -1,0 +1,6 @@
+baasnode
+logs
+*.log
+*bak
+.project
+*bak
